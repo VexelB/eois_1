@@ -5,18 +5,8 @@
       "Access-Control-Allow-Origin": "*"
     },
     "/login/" : {
-      "Status": "303 See Other",
       "Content-Type": "text/plain; charset=utf-8",
-      "Access-Control-Allow-Origin": "*",
-      "Location": "/login.html",
-      "content": "Jeka",
-      "message-body": "Jeka"
+      "Access-Control-Allow-Origin": "*"
     }
-  },
-  "content": {
-    "/login/": "Jeka"
-  },
-  "message-body": {
-    "/login/": "Jeka"
   }
 }
