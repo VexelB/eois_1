@@ -5,8 +5,8 @@
   document.querySelector('#bt').addEventListener('click', () => {
     fetch(inp.value, )
       .then((x) => {
-        console.log(text(x))
-        inp.value = text(x);
+        console.log(x.text())
+        inp.value = x.text();
       })
   })
 </script>
