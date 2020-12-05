@@ -7,7 +7,9 @@
     "/login/" : {
       "Content-Type": "text/plain; charset=utf-8",
       "Access-Control-Allow-Origin": "*",
-      "Content-Location": "/login.html"
+    },
+    "/sample/" : {
+      "Content-Type": "text/plain; charset=utf-8"
     }
   }
 }
