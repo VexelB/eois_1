@@ -7,7 +7,7 @@
       "Access-Control-Allow-Headers": "*"
     },
     "/login/" : {
-      "Status-code": "303 See Other",
+      "HTTP/1.1": "303 See Other",
       "Content-Type": "text/plain; charset=utf-8",
       "Access-Control-Allow-Origin": "*",
       "Lcoation": "/login.html"
