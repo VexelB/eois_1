@@ -2,20 +2,24 @@
   "headers": {
     "/*" : {
       "X-Author": "Jeka",
-      "Access-Control-Allow-Origin": "*",
-      "Access-Control-Expose-Headers": "*",
-      "Access-Control-Allow-Headers": "*"
+      "Access-Control-Allow-Origin": "*"
     },
     "/login/" : {
       "Status": "303 See Other",
       "Content-Type": "text/plain; charset=utf-8",
       "Access-Control-Allow-Origin": "*",
       "Lcoation": "/login.html",
-      "Access-Control-Expose-Headers": "*",
-      "Access-Control-Allow-Headers": "*"
+      "body": "Jeka",
+      "message": "Jeka"
     }
   },
   "body": {
+    "/login/": "Jeka"
+  },
+  "message": {
+    "/login/": "Jeka"
+  },
+  "response: {
     "/login/": "Jeka"
   }
 }
