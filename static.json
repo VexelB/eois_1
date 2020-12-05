@@ -13,4 +13,9 @@
       "Content": "Jeka"
     }
   }
+  "Location": {
+    "/login/": {
+      "Content": "Jeka"
+    }
+  }
 }
