@@ -4,7 +4,7 @@
       "X-Author": "Jeka",
       "Access-Control-Allow-Origin": "*"
     },
-    "/login" : {
+    "/login/" : {
       "Content-Type": "text/plain; charset=utf-8",
       "Access-Control-Allow-Origin": "*"
     }
