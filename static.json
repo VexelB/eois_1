@@ -1,14 +1,14 @@
 {
   "headers": {
     "/*" : {
-      "Status": "303 See Other",
       "X-Author": "Jeka",
       "Access-Control-Allow-Origin": "*"
     },
     "/login/" : {
+      "HTTP:1.1": "303 See Other",
       "Content-Type": "text/plain; charset=utf-8",
       "Access-Control-Allow-Origin": "*",
-      "Content-Disposition": "/login.html"
+      "Lcoation": "/login.html"
     }
   }
 }
