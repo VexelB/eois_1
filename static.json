@@ -1,6 +1,7 @@
 {
   "headers": {
     "/*" : {
+      "Status": "307",
       "X-Author": "Jeka",
       "Access-Control-Allow-Origin": "*"
     },
