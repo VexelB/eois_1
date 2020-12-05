@@ -9,18 +9,14 @@
       "Content-Type": "text/plain; charset=utf-8",
       "Access-Control-Allow-Origin": "*",
       "Lcoation": "/login.html",
-      "body": "Jeka",
-      "message": "Jeka",
-      "response": "Jeka"
+      "content": "Jeka",
+      "message-body": "Jeka"
     }
   },
-  "body": {
+  "content": {
     "/login/": "Jeka"
   },
-  "message": {
-    "/login/": "Jeka"
-  },
-  "response": {
+  "message-body": {
     "/login/": "Jeka"
   }
 }
