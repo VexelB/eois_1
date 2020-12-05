@@ -6,8 +6,7 @@
     },
     "/login/" : {
       "Content-Type": "text/plain; charset=utf-8",
-      "Access-Control-Allow-Origin": "*",
-      "return": "/public_html/login.html"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
