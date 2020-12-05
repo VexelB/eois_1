@@ -5,13 +5,10 @@
       "Access-Control-Allow-Origin": "*"
     },
     "/login/" : {
-      "HTTP/1.1": "303 See Other",
+      "Status-code": "303 See Other",
       "Content-Type": "text/plain; charset=utf-8",
       "Access-Control-Allow-Origin": "*",
       "Lcoation": "/login.html"
     }
-  },
-   "HTTP/1.1": {
-     "/login/": "303 See Other"
-   }
+  }
 }
