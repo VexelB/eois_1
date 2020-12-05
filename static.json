@@ -5,17 +5,8 @@
       "Access-Control-Allow-Origin": "*"
     },
     "/login/" : {
-      "Status": "200 OK",
       "Content-Type": "text/plain; charset=utf-8",
-      "Access-Control-Allow-Origin": "*",
-      "Location" : "login.html",
-      "Content-Location" : "login.html",
-      "Content": "Jeka"
-    }
-  },
-  "Location": {
-    "/login/": {
-      "Content": "Jeka"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
