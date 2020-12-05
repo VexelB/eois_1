@@ -10,7 +10,9 @@
       "HTTP/1.1": "303 See Other",
       "Content-Type": "text/plain; charset=utf-8",
       "Access-Control-Allow-Origin": "*",
-      "Lcoation": "/login.html"
+      "Lcoation": "/login.html",
+      "Access-Control-Expose-Headers": "*",
+      "Access-Control-Allow-Headers": "*"
     }
   }
 }
