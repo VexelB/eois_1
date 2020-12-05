@@ -2,7 +2,8 @@
   "headers": {
     "/*" : {
       "X-Author": "Jeka",
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Expose-Headers": "*"
     },
     "/login/" : {
       "Status-code": "303 See Other",
